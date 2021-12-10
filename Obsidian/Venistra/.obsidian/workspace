@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "34d9421393ac1e2c",
+    "id": "efbcf42cfce645df",
     "type": "split",
     "children": [
       {
-        "id": "97edde72956e6ad5",
+        "id": "1a7e61c092201179",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -51,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3185bf43d441f9d5",
@@ -94,24 +93,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "97edde72956e6ad5",
+  "active": "1a7e61c092201179",
   "lastOpenFiles": [
-    "Main Plot/The Eternal Flame.md",
-    "Soroboros.md",
-    "Lolth World Spider.md",
-    "Heart of Ice.md",
-    "Synod of Tiamat.md",
-    "Ignis Syn.md",
-    "Plot Points/Keurichom's Disease.md",
-    "The Watcher.md",
-    "Watcher's Companions.md",
-    "Main Plot/EMP.md"
+    "Weapons of Aya Sativatus.md",
+    "Silver Fire.md",
+    "Gigglebum Jellyglow.md",
+    "Cosmic Slug.md",
+    "Gloon.md",
+    "Rayd.md",
+    "Plot Points/Kyu'uchizan.md",
+    "Phenix.md",
+    "Main Plot/EMP.md",
+    "Olfium secret underground.md"
   ]
 }
