@@ -1,0 +1,1 @@
+People who beat the tower learn from Tymora on how to be an Architect.

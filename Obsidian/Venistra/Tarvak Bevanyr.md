@@ -1,0 +1,3 @@
+"Hello there, I am Tarvak Bevanyr, Architect of the endless tower of Tymora, First wielder of Mephisto's Burden, inventor of Hollow, Conqueror of Solimbus, 6th immortal of the eternal flame, Creator of the protective blue fires and most recently creator of new magic related to time. Nothing special really."
+
+[[Mechanical Being|brothers]] [[Tower of Tymora|Architect of]]

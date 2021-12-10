@@ -1,0 +1,3 @@
+Archdevil?
+
+[[Kyu'uchizan|serves]]

@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "96e44707d730fc1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "feb6636b961b1d0b",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d67cbf0d24d319d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "84274da102fb084b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b22397e9fc1fe64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db8171b7d615fc48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3185bf43d441f9d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ac9fc8d0cbb5d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22f10c3dfe984c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4757a30d6bbb0595",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "93c7c2ba8c7d047c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "feb6636b961b1d0b",
+  "lastOpenFiles": [
+    "Ignis Syn.md",
+    "Plot Points/Keurichom's Disease.md",
+    "The Watcher.md",
+    "Watcher's Companions.md",
+    "Main Plot/EMP.md",
+    "Ma'alfensyr.md",
+    "The Conquistador.md",
+    "Riminster Army.md",
+    "Soroboros.md",
+    "Rayd.md"
+  ]
+}

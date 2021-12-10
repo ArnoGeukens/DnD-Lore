@@ -1,0 +1,1 @@
+Demon devil invasion wiped out population + other cataclysmic events everywhere.

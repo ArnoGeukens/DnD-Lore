@@ -1,0 +1,9 @@
+"We were ten survivor from the crash of the ship we gathered our things and left. We were hunted down. Most of us died only three of us escaped and survived. A soldier, a beastmaster and me an engineer. After years we settled down in an abandoned Giant temple.
+The beastmaster was also trained as a builder and could bend Psionic Steel much faster then us. His ability combined with my design and the soldier's mind detection made our base of operation incredibly safe to fight within. Nevertheless someone broke through our defense and we were found by an Aboleth (who called himself the shadow leader of this world) who wanted our technology. We were ready to fight but if offered us a deal. In exchange for our weapons he would give us knowledge of this world. It was the best outcome we could have wished for.
+
+Everything I took for granted has become complicated or impossible while stuck in this plane. Everything I knew how to use I don't know how to make. This realm is incredibly backward in term of psionic abilities and technology. Without the technology of the Dark Myriad I am unable to fuse the arcane magic from the weave and psionic abilities together. All creations I make must be purely psionic which makes them much weaker and annoying to use.
+Finding a way to travel realms and finding our way back to our people seems impossible. The first hurdle would be consistent plane travel which I have no idea where to even start to create such a complicated device. If we find alternative methods for transportation then we must find the Dark myriad and they don't want to be found even by their own. Once you are left behind you are not expected to come back."
+
+Gitche from the Spirits might be using their tech.
+
+[[Year 0|participated]]
