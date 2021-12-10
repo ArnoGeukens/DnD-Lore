@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "96e44707d730fc1c",
+    "id": "34d9421393ac1e2c",
     "type": "split",
     "children": [
       {
-        "id": "feb6636b961b1d0b",
+        "id": "97edde72956e6ad5",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -51,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3185bf43d441f9d5",
@@ -78,7 +79,7 @@
             }
           },
           {
-            "id": "4757a30d6bbb0595",
+            "id": "415fcdc1ff357ba9",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -86,7 +87,7 @@
             }
           },
           {
-            "id": "93c7c2ba8c7d047c",
+            "id": "411bbf738196ea36",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -100,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "feb6636b961b1d0b",
+  "active": "97edde72956e6ad5",
   "lastOpenFiles": [
+    "Soroboros.md",
+    "Lolth World Spider.md",
+    "Heart of Ice.md",
+    "Synod of Tiamat.md",
     "Ignis Syn.md",
     "Plot Points/Keurichom's Disease.md",
     "The Watcher.md",
     "Watcher's Companions.md",
     "Main Plot/EMP.md",
-    "Ma'alfensyr.md",
-    "The Conquistador.md",
-    "Riminster Army.md",
-    "Soroboros.md",
-    "Rayd.md"
+    "Ma'alfensyr.md"
   ]
 }
