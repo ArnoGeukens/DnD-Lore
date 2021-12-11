@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "efbcf42cfce645df",
+    "id": "a377f55245d3914e",
     "type": "split",
     "children": [
       {
-        "id": "1a7e61c092201179",
+        "id": "89d90ca1f42e69a3",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -101,8 +101,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a7e61c092201179",
+  "active": "89d90ca1f42e69a3",
   "lastOpenFiles": [
+    "Tarvak Bevanyr.md",
     "Weapons of Aya Sativatus.md",
     "Silver Fire.md",
     "Gigglebum Jellyglow.md",
@@ -111,7 +112,6 @@
     "Rayd.md",
     "Plot Points/Kyu'uchizan.md",
     "Phenix.md",
-    "Main Plot/EMP.md",
-    "Olfium secret underground.md"
+    "Main Plot/EMP.md"
   ]
 }
