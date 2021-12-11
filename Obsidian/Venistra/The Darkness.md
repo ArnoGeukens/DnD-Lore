@@ -1,1 +1,0 @@
-Sadie and Gitche follow this God

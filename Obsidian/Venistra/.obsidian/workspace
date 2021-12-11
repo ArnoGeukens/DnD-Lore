@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "a377f55245d3914e",
+    "id": "1f3a51fa351bf8ce",
     "type": "split",
     "children": [
       {
-        "id": "89d90ca1f42e69a3",
+        "id": "026eb60967e6c4b5",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89d90ca1f42e69a3",
+  "active": "026eb60967e6c4b5",
   "lastOpenFiles": [
-    "Tarvak Bevanyr.md",
-    "Weapons of Aya Sativatus.md",
-    "Silver Fire.md",
-    "Gigglebum Jellyglow.md",
-    "Cosmic Slug.md",
-    "Gloon.md",
-    "Rayd.md",
-    "Plot Points/Kyu'uchizan.md",
     "Phenix.md",
-    "Main Plot/EMP.md"
+    "The Conquistador.md",
+    "Main Plot/Imprisoned Gods.md",
+    "Lolth World Spider.md.md",
+    "Tarvak Bevanyr.md",
+    "Mechanical Being.md",
+    "Plot Points/God Best Left Forgotten.md",
+    "Plot Points/The Eternal Flame.md",
+    "Plot Points/Greater Beings.md",
+    "Plot Points/The Darkness.md"
   ]
 }

@@ -2,4 +2,6 @@
 
 Killed and drank from by Vayron, Bim and The Conquistador.
 
+Its heart is gone.
+
 Causing meteors in Thorima?

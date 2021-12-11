@@ -6,4 +6,6 @@ Led by Liayna who:
 
 Wants to use the scale of Tiamat in a big ritual to restore the weave to how it was before. Needs more powerful spellcasters.
 
+current spellcasters: Sinvar(?), Touxankes(?), Mechanical Being, Evollen (Rayd), Tarvak(?)
+
 [[Scale of Tiamat|wants]]
