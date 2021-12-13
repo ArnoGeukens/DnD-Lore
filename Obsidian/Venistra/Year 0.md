@@ -1,4 +1,4 @@
-Demon devil invasion wiped out population + other cataclysmic events everywhere.
+Demon devil invasion wiped out population + other cataclysmic events everywhere. Cataclysmic enough that left few people and knowledge of the past alive and humans started a new age from there.
 
 "One day out of nowhere it just happened. Portals appeared all over the world from the nine hells and devils started invading our realm. Riminster was one of the few cities that didn’t instantly crumble… We were ready for war. We fought them back and killed some of the demon lords leading them. But there would always be more and after a few years we encountered the same enemies we killed in previous battle. We learned that killing devils was a more complicated matter then we first thought. I never understood what was happening during those years of war if anyone knew they never bothered telling me. All I knew is that we were only defending ourselves. After about 8 years of frequent attacks it finally stopped. At first, I thought some of our forces who went on the offensive destroyed the portals and for a while it felt like victory until something much worst appeared.
 
@@ -6,7 +6,7 @@ Black ships with strange dark green patterns appeared floating in the sky. I rem
 
 _At this point there’s a blank page and on the next some more text with the same different handwriting and different ink that was at the beginning._
 
-The world has changed in a mysterious way. Unnatural things started happening. I heard of a powerful Archfey who was bought to this world. The biggest cities that weren’t destroyed still lost any place of worship or knowledge and almost everyone was slain. Small villages survived; small concentrations of people weren’t focused during the invasion. The world of living survives but knowledge has been lost. I haven’t been able to contact anyone so far.
+The world has changed in a mysterious way. Unnatural things started happening. I heard of a powerful Archfey who was bought to this world. The biggest cities that weren’t destroyed still lost any place of worship or knowledge and almost everyone was slain. Small villages survived; small concentrations of people weren't focused during the invasion. The world of living survives but knowledge has been lost. I haven’t been able to contact anyone so far.
 
 _The last few pages only have random notes on them._
 

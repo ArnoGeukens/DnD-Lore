@@ -2,4 +2,4 @@ Under Ellyon is a prison named The Pearl of Deadwaters that holds a primeval god
 
 Guarded by Sinvar, truesight, water and Dead magic. Prison to dangerous creatures. Still imprisons Imedraz the clockwork angel, Lungos and a shapechanger.
 
-[[The Darkness|contains]]
+[[The Darkness|contains]] [[Kyu'uchizan|used to contain]]

@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "1f3a51fa351bf8ce",
+    "id": "030742a04844a9ee",
     "type": "split",
     "children": [
       {
-        "id": "026eb60967e6c4b5",
+        "id": "fc9663d588ce7a64",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "415fcdc1ff357ba9",
+            "id": "83aa91d5d5128def",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -86,32 +86,31 @@
             }
           },
           {
-            "id": "411bbf738196ea36",
+            "id": "5059d9fdb220ce8b",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "026eb60967e6c4b5",
+  "active": "fc9663d588ce7a64",
   "lastOpenFiles": [
+    "Plot Points/Kyu'uchizan.md",
+    "Pearl of Deadwaters.md",
+    "Timeline.md",
     "Phenix.md",
-    "The Conquistador.md",
-    "Main Plot/Imprisoned Gods.md",
-    "Lolth World Spider.md.md",
-    "Tarvak Bevanyr.md",
-    "Mechanical Being.md",
-    "Plot Points/God Best Left Forgotten.md",
-    "Plot Points/The Eternal Flame.md",
-    "Plot Points/Greater Beings.md",
-    "Plot Points/The Darkness.md"
+    "Nature Trinity.md",
+    "Gigglebum Jellyglow.md",
+    "Liayna's Group.md",
+    "Year 0.md",
+    "Kru'aezor.md",
+    "Plot Points/Touxankes.md"
   ]
 }

@@ -8,4 +8,4 @@ Denver told him about the scale of Tiamat.
 
 Currently looking into myriad pirate technology.
 
-[[Wayne Warben|killed]] [[Keeper of Holding|son of]][[Dark Myriad Pirates|researching]]
+[[Wayne Warben|killed]] [[Keeper of Holding|son of]][[Dark Myriad Pirates|researching]] [[Kru'aezor|part of body]]
