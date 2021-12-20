@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "030742a04844a9ee",
+    "id": "52892c76da6aa97c",
     "type": "split",
     "children": [
       {
-        "id": "fc9663d588ce7a64",
+        "id": "a4243590d3e869a8",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc9663d588ce7a64",
+  "active": "a4243590d3e869a8",
   "lastOpenFiles": [
-    "Plot Points/Kyu'uchizan.md",
-    "Pearl of Deadwaters.md",
-    "Timeline.md",
+    "Plot Points/God Best Left Forgotten.md",
+    "Keeper of Holding.md",
+    "Soroboros.md",
+    "Plot Points/Greater Beings.md",
+    "Plot Points/The Darkness.md",
+    "Cosmic Slug.md",
+    "Wayne Warben.md",
+    "Plot Points/The Eternal Flame.md",
     "Phenix.md",
-    "Nature Trinity.md",
-    "Gigglebum Jellyglow.md",
-    "Liayna's Group.md",
-    "Year 0.md",
-    "Kru'aezor.md",
-    "Plot Points/Touxankes.md"
+    "Heart of Ice.md"
   ]
 }

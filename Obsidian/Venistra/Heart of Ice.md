@@ -2,4 +2,8 @@
 
 Currently roaming near Kardoran? Can be summoned with our book.
 
-Connected to Red Merchy.
+Heart of Ice carriers are cursed as Permafrozen.
+
+Touxankes was the 1st Permafrozen.
+Red Merchy was a Permafrozen.
+Chimerran was the 5th Permafrozen.
