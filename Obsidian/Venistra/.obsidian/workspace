@@ -1,16 +1,27 @@
 {
   "main": {
-    "id": "e77ef3de6075204c",
+    "id": "7555615d65051db0",
     "type": "split",
     "children": [
       {
-        "id": "42e930e1dd5be0be",
+        "id": "573fd17202bfc826",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "juggl_view",
           "state": {},
           "pinned": true
+        }
+      },
+      {
+        "id": "44e6ecda930e142d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pearl of Deadwaters.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pearl of Deadwaters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +112,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42e930e1dd5be0be",
+  "active": "44e6ecda930e142d",
   "lastOpenFiles": [
+    "Pearl of Deadwaters.md",
     "Olfium secret underground.md",
     "Koi Carp.md",
     "Plot Points/The Eternal Flame.md",
@@ -110,7 +123,6 @@
     "Keeper of Holding.md",
     "Soroboros.md",
     "Plot Points/Greater Beings.md",
-    "Plot Points/The Darkness.md",
-    "Cosmic Slug.md"
+    "Plot Points/The Darkness.md"
   ]
 }
