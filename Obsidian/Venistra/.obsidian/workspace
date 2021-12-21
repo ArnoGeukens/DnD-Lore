@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "52892c76da6aa97c",
+    "id": "e77ef3de6075204c",
     "type": "split",
     "children": [
       {
-        "id": "a4243590d3e869a8",
+        "id": "42e930e1dd5be0be",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4243590d3e869a8",
+  "active": "42e930e1dd5be0be",
   "lastOpenFiles": [
+    "Koi Carp.md",
+    "Plot Points/The Eternal Flame.md",
+    "The Watcher.md",
     "Plot Points/God Best Left Forgotten.md",
     "Keeper of Holding.md",
     "Soroboros.md",
     "Plot Points/Greater Beings.md",
     "Plot Points/The Darkness.md",
     "Cosmic Slug.md",
-    "Wayne Warben.md",
-    "Plot Points/The Eternal Flame.md",
-    "Phenix.md",
-    "Heart of Ice.md"
+    "Wayne Warben.md"
   ]
 }

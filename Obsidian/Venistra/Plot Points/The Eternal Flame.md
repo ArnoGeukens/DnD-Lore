@@ -4,6 +4,6 @@ The eternal flame is not exactly what it seems either. From what I heard it coul
 
 There can only ever be seven Immortals of the Eternal Flame. Eternal Flame immortals are Stoneskin.
 
-"The golem and the heart of the phenix grants you eternal life. You are the xth Stoneskin.""
+"The golem and the heart of the phenix grants you eternal life. You are the xth Stoneskin."
 
-Maybe "The golem" is the 7th greater being, not the flame?
+Probably "The golem" is the 7th greater being, not the flame?
