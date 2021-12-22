@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "07a13318a94f514d",
+        "id": "476eee3c4cb22519",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -100,8 +100,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07a13318a94f514d",
+  "active": "476eee3c4cb22519",
   "lastOpenFiles": [
+    "Main Plot/Imprisoned Gods.md",
     "Phenix.md",
     "Heart of Ice.md",
     "Plot Points/The Eternal Flame.md",
@@ -110,7 +111,6 @@
     "The Watcher.md",
     "Plot Points/Greater Beings.md",
     "Weapons of Aya Sativatus.md",
-    "Timeline.md",
-    "Soroboros.md"
+    "Timeline.md"
   ]
 }
