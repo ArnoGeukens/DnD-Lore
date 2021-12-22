@@ -2,4 +2,4 @@ The 7 greater beings are a part of the weave that was torn (which made a null ma
 
 They were created from The God Best Left Forgotten's power.
 
-[[Phenix|includes]] [[Caustic Snail|includes]] [[The Eternal Flame|includes?]] [[The Reaper|includes]] [[The Watcher|includes]] [[Heart of Ice|includes]] [[Koi Carp|includes]] 
+[[Phenix|includes]] [[Caustic Snail|includes]] [[The Golem|includes?]] [[The Reaper|includes]] [[The Watcher|includes]] [[Heart of Ice|includes]] [[Koi Carp|includes]] 

@@ -2,4 +2,6 @@
 
 Being gifted a companion makes you an Observer.
 
+Deron Argenus is the 5th Observer.
+
 [[Watcher's Companions|gifted]]

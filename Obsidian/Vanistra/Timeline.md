@@ -10,6 +10,8 @@
 
 ->large gap, Year 0 - calamity
 
+228 - Weapons of Aya Sativatus
+
 ~320 - Tarvak came to Solimbus
 
 ? - (Pirates)

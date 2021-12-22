@@ -1,27 +1,16 @@
 {
   "main": {
-    "id": "7555615d65051db0",
+    "id": "efffa491a25400a8",
     "type": "split",
     "children": [
       {
-        "id": "573fd17202bfc826",
+        "id": "07a13318a94f514d",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "juggl_view",
           "state": {},
           "pinned": true
-        }
-      },
-      {
-        "id": "44e6ecda930e142d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Pearl of Deadwaters.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -78,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pearl of Deadwaters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44e6ecda930e142d",
+  "active": "07a13318a94f514d",
   "lastOpenFiles": [
-    "Pearl of Deadwaters.md",
-    "Olfium secret underground.md",
-    "Koi Carp.md",
+    "Phenix.md",
+    "Heart of Ice.md",
     "Plot Points/The Eternal Flame.md",
+    "Tarvak Bevanyr.md",
+    "The Golem.md",
     "The Watcher.md",
-    "Plot Points/God Best Left Forgotten.md",
-    "Keeper of Holding.md",
-    "Soroboros.md",
     "Plot Points/Greater Beings.md",
-    "Plot Points/The Darkness.md"
+    "Weapons of Aya Sativatus.md",
+    "Timeline.md",
+    "Soroboros.md"
   ]
 }
