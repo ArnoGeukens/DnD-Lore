@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "476eee3c4cb22519",
+        "id": "5bd3975ba736774f",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "476eee3c4cb22519",
+  "active": "5bd3975ba736774f",
   "lastOpenFiles": [
+    "Gigglebum Jellyglow.md",
+    "Timeline.md",
+    "Tiamat.md",
+    "Year 0.md",
     "Main Plot/Imprisoned Gods.md",
     "Phenix.md",
     "Heart of Ice.md",
     "Plot Points/The Eternal Flame.md",
     "Tarvak Bevanyr.md",
-    "The Golem.md",
-    "The Watcher.md",
-    "Plot Points/Greater Beings.md",
-    "Weapons of Aya Sativatus.md",
-    "Timeline.md"
+    "The Golem.md"
   ]
 }
