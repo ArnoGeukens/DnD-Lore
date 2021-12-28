@@ -1,1 +1,1 @@
-People who beat the tower learn from Tymora on how to be an Architect.
+People who beat the tower learn from Tymora on how to be an Architect. They can also ask Tymora for a wish.

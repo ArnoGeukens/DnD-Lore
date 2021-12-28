@@ -1,4 +1,6 @@
-(Piercing / Bludgeoning / Slashing?) Probably the 7th Greater Being.
+(Piercing / Bludgeoning / Slashing?) The 7th Greater Being.
+
+Part of the island Solimbus in the Unknown Sea is (part of) The Golem.
 
 It made seven hearts of stone which grant immortality when thrown into The Eternal Flame. Immortals from this method are Stoneskin.
 

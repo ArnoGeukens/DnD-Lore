@@ -17,4 +17,6 @@ Seems to hate the Weave.
 
 "The Creator of all things and the Giver of life. The Great Mystery. Forgotten..."
 
+If Manitou can kill and absorb the Greater Beings he can become Divine again.
+
 [[The Darkness|attempts to free]][[Greater Beings|turned into]]

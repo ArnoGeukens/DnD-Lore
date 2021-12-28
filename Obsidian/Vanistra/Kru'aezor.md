@@ -2,3 +2,5 @@ An original being, doesn't seem connected to the weave, to psionic, to divine an
 
 Connected to green starmetal, harder than even adamantine and pretty good for enchanting.
 
+Some in the endless tower of Tymora know about it.
+

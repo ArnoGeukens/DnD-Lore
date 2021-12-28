@@ -8,4 +8,4 @@ Its heart is gone. It's heart might be the Eternal Flame?
 
 Causing meteors in Thorima?
 
-[[The Eternal Flame|is heart?]]
+[[The Eternal Flame|is heart]]
