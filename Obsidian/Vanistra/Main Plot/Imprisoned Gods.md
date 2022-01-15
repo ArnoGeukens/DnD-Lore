@@ -4,4 +4,4 @@ Tiamat and The Darkness are kept imprisoned by Sinvar.
 The God Best Left Forgotten was kept imprisoned by a guardian best left forgotten but they were killed by Gitche and the Great Spirit was freed.
 
 
-[[The Darkness|includes]] [[Tiamat|includes]] [[God Best Left Forgotten|includes]]
+[[The Darkness|includes]] [[Tiamat|includes]] [[The Great Spirit|includes]]

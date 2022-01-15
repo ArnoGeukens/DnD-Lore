@@ -1,6 +1,6 @@
-The Great Spirit.
+God Best Left Forgotten.
 
-After he tore the Weave (which made the null magic zone), his power was used to create the Greater Beings and repair some of the weave and his body was locked up on Solimbus.
+After he tore the Weave (which made the null magic zone), his power was used to create the Greater Beings and repair some of the weave and his body was locked up in stone on Solimbus to be forgotten.
 
 The being called Great Spirit's Hatred also stems from The Great Spirit. Its nature is unusual it is part fey and part many things.
 
@@ -19,4 +19,4 @@ Seems to hate the Weave.
 
 If Manitou can kill and absorb the Greater Beings he can become Divine again.
 
-[[The Darkness|attempts to free]][[Greater Beings|turned into]]
+[[The Darkness|attempts to free]][[Greater Beings|turned into]][[Spirits|secretly leads]]

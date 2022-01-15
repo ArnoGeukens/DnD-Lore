@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bdfb9b54e5efcb5e",
+        "id": "88bddf4bf1862cbd",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bdfb9b54e5efcb5e",
+  "active": "88bddf4bf1862cbd",
   "lastOpenFiles": [
+    "Ignis Syn.md",
+    "Pearl of Deadwaters.md",
     "Plot Points/Tower of Tymora.md",
-    "Kru'aezor.md",
-    "Plot Points/Keurichom's Disease.md",
-    "Caustic Snail.md",
-    "Plot Points/God Best Left Forgotten.md",
-    "Phenix.md",
-    "Artsy.md",
-    "Plot Points/Greater Beings.md",
-    "Timeline.md",
-    "The Golem.md"
+    "Main Plot/EMP.md",
+    "Mechanical Being.md",
+    "Plot Points/The Great Spirit.md",
+    "Heart of Ice.md",
+    "The Reaper.md",
+    "Koi Carp.md",
+    "Power Types.md"
   ]
 }

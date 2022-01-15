@@ -2,6 +2,8 @@
 
 Currently roaming near Kardoran? Can be summoned with our book.
 
+Heart of Ice used to be a blessing but it was turned into a curse by a demigod, freezes you from inside.
+
 Heart of Ice carriers are cursed as Permafrozen.
 
 Touxankes was the 1st Permafrozen.
