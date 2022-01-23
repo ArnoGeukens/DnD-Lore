@@ -6,4 +6,6 @@ Caused by an experiment using the Scale of Tiamat + alien technology. The Scale 
 
 Will lead to the end of the world (dissipation of the weave) ~March 20th, and devastating effects are likely much sooner.
 
+As long as a small part of the Weave survives, those connected will survive.
+
 [[Scale of Tiamat|used]][[Dark Myriad Pirates|used tech from]][[Pearl of Deadwaters|weakened]]

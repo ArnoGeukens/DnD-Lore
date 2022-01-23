@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "88bddf4bf1862cbd",
+        "id": "488b290a5fad7063",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88bddf4bf1862cbd",
+  "active": "488b290a5fad7063",
   "lastOpenFiles": [
-    "Ignis Syn.md",
-    "Pearl of Deadwaters.md",
-    "Plot Points/Tower of Tymora.md",
-    "Main Plot/EMP.md",
-    "Mechanical Being.md",
+    "Avatar of Tiamat.md",
+    "Plot Points/Scale of Tiamat.md",
+    "Plot Points/Gloon.md",
+    "Jandar Underthorn.md",
     "Plot Points/The Great Spirit.md",
-    "Heart of Ice.md",
-    "The Reaper.md",
-    "Koi Carp.md",
-    "Power Types.md"
+    "Main Plot/Imprisoned Gods.md",
+    "Main Plot/EMP.md",
+    "Plot Points/Artsy.md",
+    "Cosmic Slug.md",
+    "Soroboros.md"
   ]
 }

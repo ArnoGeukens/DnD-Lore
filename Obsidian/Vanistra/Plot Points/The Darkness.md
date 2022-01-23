@@ -1,3 +1,7 @@
+Previously known as Redammor
+
+Has a son who would be the first to be made a demigod.
+
 Sadie and Gitche follow this God. Gitche seems to be extremely close to it.
 
 The Double Fool and other followers were protecting the Eternal Flame on Solimbus.

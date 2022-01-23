@@ -9,4 +9,4 @@ Wants to use the scale of Tiamat in a big ritual to restore the weave to how it 
 
 current spellcasters: Sinvar(?), Touxankes(though risky), Mechanical Being, Evollen (Rayd), Tarvak(if he's around), some that Liayna recruited
 
-[[Scale of Tiamat|wants]]
+[[Scale of Tiamat|wants]] [[Ivory Reach of Nirvana|allied with]]

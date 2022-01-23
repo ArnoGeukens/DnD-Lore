@@ -1,6 +1,6 @@
 God Best Left Forgotten.
 
-After he tore the Weave (which made the null magic zone), his power was used to create the Greater Beings and repair some of the weave and his body was locked up in stone on Solimbus to be forgotten.
+Only a few years after ascending to Divinity he tore Vanistra's weave. After he tore the Weave (which made the null magic zone), his power was used to create the Greater Beings and repair some of the weave and his body was locked up in stone on Solimbus to be forgotten.
 
 The being called Great Spirit's Hatred also stems from The Great Spirit. Its nature is unusual it is part fey and part many things.
 
