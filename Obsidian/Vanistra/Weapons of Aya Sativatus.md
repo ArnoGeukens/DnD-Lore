@@ -57,3 +57,4 @@ For Clastow : Infinite Oasis
 **The legend of Perfect Diamond**
 
 The last creation of Aya the legendary blacksmith. After creating Perfect Gold the king of Riminster was so impressed he ordered her to make a blade of legend. He spent an incredible amount or riches and resources for this blade. The blade had to reflect perfection in every aspect. During the forging of the blade someone stole it and murdered Aya. It has never been seen completed and has been a legend since then as the last ultimate blade made by Aya. **(230k gp. Investigate Diamond Family.)**"
+Used by the Sword of Ellyon.

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "488b290a5fad7063",
+        "id": "32dc46831c38f4c7",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "488b290a5fad7063",
+  "active": "32dc46831c38f4c7",
   "lastOpenFiles": [
+    "Plot Points/Keurichom's Disease.md",
+    "Energy Types.md",
+    "Weapons of Aya Sativatus.md",
+    "The Reaper.md",
+    "The Watcher.md",
+    "Watcher's Companions.md",
+    "Plot Points/The Great Spirit.md",
     "Avatar of Tiamat.md",
     "Plot Points/Scale of Tiamat.md",
-    "Plot Points/Gloon.md",
-    "Jandar Underthorn.md",
-    "Plot Points/The Great Spirit.md",
-    "Main Plot/Imprisoned Gods.md",
-    "Main Plot/EMP.md",
-    "Plot Points/Artsy.md",
-    "Cosmic Slug.md",
-    "Soroboros.md"
+    "Plot Points/Gloon.md"
   ]
 }

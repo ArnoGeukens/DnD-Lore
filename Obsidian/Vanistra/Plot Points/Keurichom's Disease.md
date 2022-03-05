@@ -3,3 +3,5 @@ In the past 20 years a new disease has appeared and started infecting people ran
 Probably related to the poison temple nearby.
 
 Probably related to Bolgerd being a Plague Bringer.
+
+God-killing Plague. Sealed away but resurrected by a Drow cult. Experimented on Boloteus Deus. Sold to Zeplinsky.
