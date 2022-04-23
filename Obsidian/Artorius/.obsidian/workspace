@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "efffa491a25400a8",
+    "id": "b690db5e1f82142e",
     "type": "split",
     "children": [
       {
-        "id": "036679349b34e388",
+        "id": "7e91a74d3771be32",
         "type": "leaf",
         "state": {
-          "type": "juggl_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ishtar the dragon.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d67cbf0d24d319d5",
+    "id": "b19fad82d0799400",
     "type": "split",
     "children": [
       {
-        "id": "84274da102fb084b",
+        "id": "77a11bfe7fcaa5d8",
         "type": "tabs",
         "children": [
           {
-            "id": "5b22397e9fc1fe64",
+            "id": "531f9da8d99e4a4e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "db8171b7d615fc48",
+            "id": "41b457c30f68430d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,19 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "3185bf43d441f9d5",
+    "id": "f7a4bf8cc3679f0d",
     "type": "split",
     "children": [
       {
-        "id": "d2ac9fc8d0cbb5d4",
+        "id": "198af2b2d369efb3",
         "type": "tabs",
         "children": [
           {
-            "id": "b22f10c3dfe984c1",
+            "id": "962c1df6280883ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ishtar the dragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,22 +78,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "83aa91d5d5128def",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "5059d9fdb220ce8b",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
           }
         ]
       }
@@ -98,17 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "036679349b34e388",
+  "active": "7e91a74d3771be32",
   "lastOpenFiles": [
-    "Caustic Snail.md",
-    "Plot Points/Keurichom's Disease.md",
-    "Soroboros.md",
-    "Mechanical Being.md",
-    "Plot Points/Dark Myriad Pirates.md",
-    "Wayne Warben.md",
-    "Plot Points/Touxankes.md",
-    "Plot Points/Gloon.md",
-    "Synod of Tiamat.md",
-    "Nobles of Ellyon.md"
+    "Ishtar the dragon.md"
   ]
 }

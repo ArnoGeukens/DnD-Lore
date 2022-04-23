@@ -4,6 +4,6 @@ The beastmaster was also trained as a builder and could bend Psionic Steel much 
 Everything I took for granted has become complicated or impossible while stuck in this plane. Everything I knew how to use I don't know how to make. This realm is incredibly backward in term of psionic abilities and technology. Without the technology of the Dark Myriad I am unable to fuse the arcane magic from the weave and psionic abilities together. All creations I make must be purely psionic which makes them much weaker and annoying to use.
 Finding a way to travel realms and finding our way back to our people seems impossible. The first hurdle would be consistent plane travel which I have no idea where to even start to create such a complicated device. If we find alternative methods for transportation then we must find the Dark myriad and they don't want to be found even by their own. Once you are left behind you are not expected to come back."
 
-Gitche from the Spirits might be using their tech.
+Gitche from the Spirits was using a staff with their tech. Klepczinsky might be using a staff with their tech.
 
 [[Year 0|participated]]

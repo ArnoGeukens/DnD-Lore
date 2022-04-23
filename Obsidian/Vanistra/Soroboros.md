@@ -4,4 +4,5 @@ One of the Greater Divine.
 
 Looks like a coiled snake/dragon. Lives in Wabam the continual city, where sorcerer jail is.
 
-Manages a Self-Regulating Cosmic Defense against Soroboros System (infinite systems).
+Infinite systems can draw anger?
+The goblet of folly manages a Self-Regulating Cosmic Defense against Soroboros System (infinite systems).

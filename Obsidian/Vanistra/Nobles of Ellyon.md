@@ -7,4 +7,4 @@ considered dead families: Levnir, Yzmenor, prafyon, noftens, sotone, abaslom, co
 
 Wants to use the scale of Tiamat to power Waham into a floating city to solely survive the destruction of the Weave.
 
-[[Scale of Tiamat|has]]
+[[Scale of Tiamat|wants]]
