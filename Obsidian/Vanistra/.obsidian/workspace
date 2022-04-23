@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "036679349b34e388",
+        "id": "f1378d850003574e",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "juggl_view",
-          "state": {}
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -98,8 +100,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "036679349b34e388",
+  "active": "f1378d850003574e",
   "lastOpenFiles": [
+    "Addo'orok.md",
     "Caustic Snail.md",
     "Plot Points/Keurichom's Disease.md",
     "Soroboros.md",
@@ -108,7 +111,6 @@
     "Wayne Warben.md",
     "Plot Points/Touxankes.md",
     "Plot Points/Gloon.md",
-    "Synod of Tiamat.md",
-    "Nobles of Ellyon.md"
+    "Synod of Tiamat.md"
   ]
 }

@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7e91a74d3771be32",
+        "id": "16baa33760942d35",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ishtar the dragon.md",
-            "mode": "source"
-          }
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -68,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ishtar the dragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +76,22 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "e9f9db036b3f12c9",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "50cdacfbe854a93f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,8 +100,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e91a74d3771be32",
+  "active": "16baa33760942d35",
   "lastOpenFiles": [
-    "Ishtar the dragon.md"
+    "Plot Points/Wessen League.md",
+    "Plot Points/Worldspine Kingdom.md",
+    "Main Plot/Ishtar the Dragon.md",
+    "The Perfect Pearl.md",
+    "Plot Points/Cultists.md",
+    "Untitled.md.md",
+    "Heroes of Ishtar.md"
   ]
 }

@@ -1,0 +1,53 @@
+/* For a full overview of styling options, see https://js.cytoscape.org/#style */
+
+edge {
+	curve-style: straight;
+	width: 3;
+	line-color: black;
+	line-opacity: 0.5;
+	font-size: 12;
+	text-rotation: autorotate;
+	text-wrap: wrap;
+	text-max-width: 10;
+	color: white;
+        text-outline-color: black;
+        text-outline-width: 1;
+	arrow-scale: 2;
+	target-arrow-color: black;
+	source-text-offset: 1;
+	target-text-offset: 1;
+}
+
+edge[alias] {
+	label: data(alias);
+}
+
+node {
+	shape: round-rectangle;
+	background-color: rgb(255, 255, 255);
+	text-wrap: wrap;
+	text-valign: center;
+	font-size: 16;
+	color: black;
+	border-color: rgb(103, 197, 152);
+	border-width: 5;
+	width: 80;
+	text-max-width: 70;
+	height: 40;
+}
+
+node[path ^= 'Plot Points'] {
+	border-color: rgb(103, 154, 197);
+	border-width: 5;
+	width: 90;
+	text-max-width: 80;
+	height: 45;
+}
+
+node[path ^= 'Main Plot'] {
+	border-color: rgb(0, 0, 0);
+	border-width: 5;
+	width: 100;
+	text-max-width: 90;
+	height: 50;
+}
