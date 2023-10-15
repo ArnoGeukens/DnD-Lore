@@ -3,4 +3,4 @@ Can use magic to look into the past of the place he's in.
 
 Saw the past where Manitou be freed by Gitche on Solimbus. Saw Nemesis on Solimbus.
 
-[[Mechanical Being|brothers]] [[Tower of Tymora|Architect of]] [[The Eternal Flame|Immortal of]]
+[[Mechanical Being|father of]] [[Tower of Tymora|Architect of]] [[The Eternal Flame|Immortal of]]

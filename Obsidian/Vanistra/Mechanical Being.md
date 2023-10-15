@@ -7,4 +7,4 @@ Is researching chronos magic in Ahar.
 
 Saw Touxankes' resurrection live via a magic camera.
 
-[[Touxankes|allowed ressurection]][[Tarvak Bevanyr|brothers]]
+[[Touxankes|allowed ressurection]]

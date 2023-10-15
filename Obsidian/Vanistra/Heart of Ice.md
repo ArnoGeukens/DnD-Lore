@@ -8,4 +8,5 @@ Heart of Ice carriers are cursed as Permafrozen.
 
 Touxankes was the 1st Permafrozen.
 Red Merchy was a Permafrozen.
+Frost Fairy was the 4th Permafrozen.
 Chimerran was the 5th Permafrozen.

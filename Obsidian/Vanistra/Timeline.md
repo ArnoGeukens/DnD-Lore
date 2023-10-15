@@ -1,10 +1,12 @@
 ? - God Best Left Forgotten tore part of the weave, then was stripped of his power. The gods used his and the destroyed parts of the weave's energy to create the greater beings. 
-around the same time? - Tiamat interfered with the affairs of Vanistra.
+around the same time? - Tiamat interfered with the affairs of Vanistra and a part of it was imprisoned.
 around the same time? - The Darkness did whatever got it imprisoned.
 
 not much later? - The Gods created the Divine Gate
 
 ->two generations - Touxankes the second was born
+
+? - Feldritch founded
 
 ->large gap, Year 0 - calamity
 
@@ -20,4 +22,4 @@ not much later? - The Gods created the Divine Gate
 
 ~1000 - (Hollow)
 
-1000-1200 - EMP goes off (Scavangers)
+1200 - EMP goes off (Scavangers)

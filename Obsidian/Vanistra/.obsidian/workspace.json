@@ -4,26 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "e7cad5e0b5948d31",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "785d8f6fa1f3a526",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Koi Carp.md",
-            "mode": "source",
-            "source": false
+        "id": "18929f6c8de9c1b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f548c7ccf2d99a10",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "9edccb462f4bfa44",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "c283be0a66429828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Caustic Snail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58f06f988e333d97",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -41,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -57,6 +85,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "549b5b4f046792d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -79,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Koi Carp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +148,32 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "785d8f6fa1f3a526",
+  "left-ribbon": {
+    "hiddenItems": {
+      "juggl:Juggl global graph": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f548c7ccf2d99a10",
   "lastOpenFiles": [
-    "Watcher's Companions.md",
-    "Plot Points/Kyu'uchizan.md",
-    "Untitled.md",
-    "Rayd.md",
-    "World Spider.md",
+    "Caustic Snail.md",
+    "Koi Carp.md",
+    "The Reaper.md",
     "Plot Points/Artsy.md",
-    "Plot Points/Greater Beings.md",
-    "Nature Trinity.md",
+    "Timeline.md",
+    "Plot Points/The Eternal Flame.md",
+    "The Golem.md",
+    "Tarvak Bevanyr.md",
     "Energy Types.md",
-    "Plot Points/Gloon.md"
+    "Cosmic Slug.md",
+    "Soroboros.md",
+    "Weapons of Aya Sativatus.md",
+    "Silver Fire.md",
+    "Nature Trinity.md",
+    "World Spider.md"
   ]
 }
