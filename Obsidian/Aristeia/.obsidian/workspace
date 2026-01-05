@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "efffa491a25400a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7cad5e0b5948d31",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "785d8f6fa1f3a526",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Koi Carp.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d67cbf0d24d319d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "84274da102fb084b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b22397e9fc1fe64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db8171b7d615fc48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3185bf43d441f9d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ac9fc8d0cbb5d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22f10c3dfe984c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Koi Carp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83aa91d5d5128def",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "5059d9fdb220ce8b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "785d8f6fa1f3a526",
+  "lastOpenFiles": [
+    "Watcher's Companions.md",
+    "Plot Points/Kyu'uchizan.md",
+    "Untitled.md",
+    "Rayd.md",
+    "World Spider.md",
+    "Plot Points/Artsy.md",
+    "Plot Points/Greater Beings.md",
+    "Nature Trinity.md",
+    "Energy Types.md",
+    "Plot Points/Gloon.md"
+  ]
+}
